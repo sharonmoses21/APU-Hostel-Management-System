@@ -1,0 +1,60 @@
+1001
+John Doe
+johndoe
+johndoe123
+john@example.com
+Male
+ROOM201
+Rejected
+Unpaid
+
+1002
+Umar Imran
+umar
+umar123
+umarn@example.com
+Male
+None
+Approved
+Unpaid
+
+1003
+Mohamed Razeen
+momo
+momo123
+momo@example.com
+Male
+None
+Pending
+Unpaid
+
+1004
+Iqra Amin
+iqra
+iqra123
+iqra@example.com
+Female
+None
+Pending
+Unpaid
+
+1005
+Anushree Jain
+anushree
+anu123
+anushree@example.com
+Female
+None
+Pending
+Unpaid
+
+1006
+Sharon Moses
+sharon
+sharon123
+sharon@example.com
+Female
+None
+Pending
+Unpaid
+
